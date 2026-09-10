@@ -17,3 +17,5 @@ impact of major events like the COVID-19 pandemic and recent economic instabilit
 - **Source:** [e.g., World Bank, State Bank of Pakistan, Pakistan Bureau of Statistics, Kaggle]
 - **Time period:** 2018–2024
 - **Key variables:** GDP, inflation rate, exchange rate, unemployment rate, exports, imports, etc.
+
+  <img width="1013" height="566" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/8014f239-29b4-4e5e-9326-c1e3df156892" />
